@@ -5,3 +5,6 @@
 Thumbs.db
 build/
 bin/
+
+# Keep real-device screenshots local for privacy.
+docs/images/

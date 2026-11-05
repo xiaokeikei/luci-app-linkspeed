@@ -4,15 +4,12 @@
 
 ### Test configuration
 
-![Test configuration](docs/images/test-interface.png)
 
 ### Live speed chart
 
-![Live speed chart](docs/images/test-running.png)
 
 ### Completed test and history chart
 
-![Completed test and history chart](docs/images/test-completed.png)
 
 [中文](README.zh-CN.md) | English
 
